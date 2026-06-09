@@ -63,3 +63,4 @@ module seq_det (clk, rst_n, din, dout);
     end
 
 endmodule
+
